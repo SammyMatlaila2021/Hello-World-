@@ -1,1 +1,3 @@
-# Hello-World-
+var day
+day = Friday 
+print(day)
